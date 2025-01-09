@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+
+        <title>IT</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+
+        <h1>Gitkeeper</h1>
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+
+        <h2>Index</h2>
+        <h3>Path</h3>
+       
+        
+    </body>
+
+</html>
